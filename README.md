@@ -1,6 +1,6 @@
 title: "Reproducible Research - Course Project 1: Activity monitoring"
 author: "Pranav"
-date: "6 May 2018"
+date: "29 july 2021"
 output: html_document
 ---
 
